@@ -1,0 +1,24 @@
+{
+  "name": "xhr-project-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielapariona/xhr-project-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielapariona/xhr-project-demo/issues"
+  },
+  "homepage": "https://github.com/Danielapariona/xhr-project-demo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
